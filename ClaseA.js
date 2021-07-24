@@ -3,4 +3,5 @@ class ClaseA{
       this.foo = foo;
       this.bar = bar;
     }  
+    
   }
